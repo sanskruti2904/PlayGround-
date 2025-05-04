@@ -1,0 +1,37 @@
+body{
+    color: #82a5ca;
+    text-align: center;
+    font-family: "Aldrich", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+}
+
+#hero{
+    background-image: url("assets/giphy.webp");
+    background-size: cover;
+    padding: 10px;
+    height: 500px;
+    
+}
+
+.btn{
+   padding: 5px 12px;
+   color: #82a5ca;
+   background-color: rgb(249, 236, 220);
+   font-family: inherit;
+   font-weight: 400;
+}
+ 
+.line{
+    border-bottom: 3px solid whitesmoke;
+}
+
+#logo{
+    width: 150px;
+}
+
+h1{
+    text-shadow: 0px 0px 4px black;
+    margin-top: 120px;
+}
